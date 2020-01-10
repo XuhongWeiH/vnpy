@@ -41,4 +41,4 @@ $python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requiremen
 locale-gen zh_CN.GB18030
 
 # Install vn.py
-$python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simpl . $@
+$python -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple . $@
