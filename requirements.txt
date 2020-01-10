@@ -6,7 +6,7 @@ requests
 websocket-client
 peewee
 pymysql
-psycopg2
+psycopg2-binary
 mongoengine
 numpy
 pandas==0.24.2
